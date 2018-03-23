@@ -17,8 +17,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="pdfviewer.PdfViewer">
-        </activity>
+        <activity android:name="pdfviewer.PdfViewer"></activity>
+
+        <activity android:name="getapps.AppsActivity"></activity>
 
     </application>
 
