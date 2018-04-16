@@ -14,4 +14,4 @@ some App function Demo，just for record，下面是各个包名所开发的功�
 ## 3、sensor
 传感器开发、实例
 
-  * GetAllSensors.java 得到手机中所有的传感器信息
+  + GetAllSensors.java 得到手机中所有的传感器信息
