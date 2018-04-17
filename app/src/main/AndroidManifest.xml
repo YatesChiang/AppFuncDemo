@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,6 +21,21 @@
         <activity android:name="pdfviewer.PdfViewer"></activity>
 
         <activity android:name="getapps.AppsActivity"></activity>
+
+        <activity android:name="sensor.GetAllSensors"></activity>
+
+        <activity android:name="sensor.LightSensor"></activity>
+
+        <activity android:name="sensor.AccelerometerSensor"></activity>
+
+        <activity android:name="sensor.ShakeActivity"></activity>
+
+        <activity
+            android:name="sensor.GyroscopeSensor"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name="sensor.CompassActivity"></activity>
 
     </application>
 
