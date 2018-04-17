@@ -17,7 +17,7 @@ some App function Demo，just for record，下面是各个包名所开发的功�
 + 传感器简介.md    简单介绍传感器的种类和传感器的使用
 + GetAllSensors.java    得到手机中所有的传感器信息
 + LightSensor.java   光照传感器示例
-+ AccelerometerSensor    加速度传感器示例
-+ GyroscopeSensor    陀螺仪传感器示例
-+ ShakeActivity    摇一摇功能
-+ CompassActivity    指南针功能
++ AccelerometerSensor.java    加速度传感器示例
++ GyroscopeSensor.java    陀螺仪传感器示例
++ ShakeActivity.java    摇一摇功能
++ CompassActivity.java    指南针功能
